@@ -1,5 +1,8 @@
 'use strict'
 
+window.LiveReloadOptions = { host: 'localhost' }
+require 'livereload-js'
+
 ###
 browserify-shim dependencies (can be edited in package.json)
 ###
