@@ -5,5 +5,5 @@ module.exports = angular.module('screenGenerator', [
   'ui.router'
   require('../../../tmp/templates').name
   require('../common/index').name
-  require('./foo/index').name
+  require('./main/index').name
 ])

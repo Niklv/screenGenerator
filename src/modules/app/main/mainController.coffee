@@ -2,5 +2,4 @@
 
 ### @ngInject ###
 module.exports = ($scope) ->
-  $scope.welcome = "Congratulations!"
-  return
+  $scope.welcome = "Hello World!"
